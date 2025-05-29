@@ -60,7 +60,7 @@ This project analyzes publicly available COVID-19 mortality datasets to extract 
 ## 🔗 Useful Links
 
 - 💻 [View Project on GitHub](https://github.com/Muhammed-Shabnas-PA/COVID-19-Pandemic-Mortality-Analysis)
-- 🌐 [View My Portfolio](https://datascienceportfol.io/muhammedshabnaspa)
+- 🌐 [View My Portfolio](muhammed-shabnas-pa.github.io/Portfolio-Website)
 
 ---
 
