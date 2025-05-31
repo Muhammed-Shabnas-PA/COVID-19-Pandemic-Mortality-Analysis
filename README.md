@@ -142,7 +142,7 @@ git clone https://github.com/Muhammed-Shabnas-PA/COVID-19-Pandemic-Mortality-Ana
 For questions, feedback, or collaboration opportunities:
 
 📧 muhammedshabnaspa.com  
-🔗 [LinkedIn Profile](www.linkedin.com/in/muhammed-shabnas-pa)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammed-shabnas-pa/)
 
 ---
 
